@@ -1,0 +1,8 @@
+pyrogram
+telethon
+motor
+pymongo
+python-dotenv
+qrcode
+pillow
+tgcrypto
